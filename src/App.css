@@ -2,23 +2,13 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 h1 {
   text-align: center;
 }
 
 .App-header {
   background-color: #345678;
-  min-height: 100vh;
+  min-height: 80vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -28,5 +18,5 @@ h1 {
 }
 
 .App-link {
-  color: #61dafb;
+  color: #2c515b;
 }
