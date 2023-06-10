@@ -9,6 +9,13 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <App />
+    <a
+      href="https://github.com/Nwakomi/final-weather-app"
+      rel="noreferrer"
+      target="_blank"
+    >
+      Github repository
+    </a>
   </React.StrictMode>
 );
 
